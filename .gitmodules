@@ -1,0 +1,3 @@
+[submodule "Project-Scripts-Repo-SubModule"]
+	path = Project-Scripts-Repo-SubModule
+	url = https://github.com/venkyy8/multiple-apps-k8s-manifests.git
