@@ -49,3 +49,12 @@ By exploring this repo, you’ll learn how to:
 
 You're welcome to fork this repository and contribute:
 
+
+* New examples or edge cases
+* Improvements to existing demos
+* Integration with CI/CD tools (GitHub Actions, Argo Workflows, etc.)
+
+Feel free to open issues or submit a pull request!
+
+---
+
